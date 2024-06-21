@@ -1,0 +1,14 @@
+{
+  "dependencies": {
+    "sqlite3": "^5.1.7"
+  },
+  "name": "another-notes-app",
+  "version": "1.0.0",
+  "description": "Yet another notes app",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
